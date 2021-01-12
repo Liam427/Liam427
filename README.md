@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Liam427's github stats](https://github-readme-stats.vercel.app/api?username=Liam427&show_icons=true&theme=merko&count_private=true)
+![Liam427's github stats](https://github-readme-stats.vercel.app/api?username=Liam427&show_icons=true&theme=synthwave&count_private=true)
 <!--
 **Liam427/Liam427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
