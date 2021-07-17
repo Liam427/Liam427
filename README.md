@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=byeongwook%20You:rocket:&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=byeongwook%20You%20:rocket:&fontSize=50)
 
 <div align="center">
   
